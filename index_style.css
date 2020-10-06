@@ -1,6 +1,6 @@
  body {
         font: 0.8em Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
-        background: #D7E1F2; /* Цвет фона */
+        background: #D7E1F5; /* Цвет фона */
         color: #ffe; /* Цвет текста */
     }
 a { color: #008BCE; /* Цвет ссылок */ }
@@ -29,6 +29,6 @@ a { color: #008BCE; /* Цвет ссылок */ }
 h2 { margin: 0 0 1em; }
 #footer { 
     clear: both; /* Отменяем действие float */
-    padding: 5px; /* Отступы вокруг текста */
+    padding: 6px; /* Отступы вокруг текста */
     background: #D71920; /* Цвет фона подвала */
 }
