@@ -18,7 +18,7 @@ a { color: #008BCE; /* Цвет ссылок */ }
 #nav, #aside {
     float: left; width: 110px; padding: 5px;
 }
-#content {
+#main {
     background: #54B948;
     margin: 0 120px; /* Ширина колонок */
     padding: 10px;
